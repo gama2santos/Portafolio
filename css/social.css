@@ -3,3 +3,9 @@
     display: flex;
     gap: 16px;
 }
+
+.social-footer {
+    display: flex;
+    padding-block-end: 24px;
+    gap: 16px;
+}
